@@ -1,3 +1,4 @@
+//package должен быть org.max.home.accu;
 package org.max.seminar.accu;
 
 import org.junit.jupiter.api.Assertions;
